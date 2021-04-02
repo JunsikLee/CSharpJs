@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.1.0</version>
+    <title>$title$</title>
+    <authors>Junsik.lee</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/JunsikLee/CSharpJs</projectUrl>
+    <icon>images\icon.png</icon>
+    <description>CSharp Junsik Packages</description>
+    <releaseNotes>
+      2021.04.02
+    </releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>CSharpJs</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2"/>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="..\icon.png" target="images\" />
+  </files>
+</package>
