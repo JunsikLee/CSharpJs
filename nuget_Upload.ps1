@@ -1,0 +1,1 @@
+.\nuget.exe push *.nupkg APIKEY -Source https://api.nuget.org/v3/index.json
