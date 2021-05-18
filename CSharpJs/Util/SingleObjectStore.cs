@@ -29,7 +29,6 @@ namespace CSharpJs.Util
             if (dicObject.ContainsKey(obj.GetType()))
             {
                 dicObject[obj.GetType()].Add(obj);
-                dicObject[obj.GetType()].Remove(obj);
             }
         }
 
